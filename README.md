@@ -1,4 +1,4 @@
-[코로나 알리미 api](https://api.coronas.info/)
+[코로나인포 api](https://api.coronas.info/)
 
 코로나인포 api를 사용합니다.
 
