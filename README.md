@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # coronamap
 
 > A Vue.js project
@@ -25,4 +26,6 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 
 -2020.02.28: axios를 통한 vue 연동
+
+=======
 
