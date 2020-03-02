@@ -52,7 +52,7 @@ mounted(){
         var marker = new kakao.maps.Marker({
             map: map, // 마커를 표시할 지도
             position: this.positions[i], // 마커를 표시할 위치
-            title : this.map[i].patient, // 마커의 타이틀, 마커에 마우스를 올리면 타이틀이 표시됩니다
+            title : this.map[i].title, // 마커의 타이틀, 마커에 마우스를 올리면 타이틀이 표시됩니다
             image : markerImage // 마커 이미지 
         });
   }
